@@ -1,10 +1,8 @@
 # [Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models/home/welcome)
 
-****
-
-## Course by deeplearning.ai & Amazon Web Services
-## Platform: Coursera
-## Course objectives
+### Course by: [deeplearning.ai](https://www.deeplearning.ai/) & (Amazon Web Services](https://aws.amazon.com/pt/)
+### Platform: Coursera
+### Course objectives
 - foundational concepts for exploratory data analysis (EDA)
 - automated machine learning (AutoML)
 - text classification algorithms
